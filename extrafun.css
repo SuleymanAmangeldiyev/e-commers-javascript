@@ -1,0 +1,9 @@
+.menuItem:hover {
+  background-color: rgb(109, 76, 76);
+  transition: ease-in-out 1s;
+}
+.menuItem {
+  transition: ease-in-out 1s;
+
+  padding: 10px;
+}
